@@ -1,0 +1,111 @@
+  body {
+      background: url("../Portfolio/PortPhotos/hoverGreenStarArray.jpg") no-repeat fixed top center ;
+      font-size: 60%;
+      padding: 0;
+      margin: 0;
+      -webkit-background-size: 100% 100%;
+      -moz-background-size: 100% 100%;
+      background-size: 100% 100%;
+      -o-background-size: 100% 100%;
+  }
+
+header {
+    padding: 2.5em 0 0.5em;
+    margin: 6.0em 0 2.0em;
+}
+header h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color:  #237e6a;
+    font-size: 8em;
+    margin: 0;
+    text-shadow: silver 1px 2px 0;
+    letter-spacing: normal;
+   
+}
+h2 {
+    color: silver;
+    font-size: 2.5em;
+}
+header h2 {
+    margin-left: 350px;
+    text-shadow: purple 1px 2px 0;
+    font-size: 6em;;
+}
+.photos img {
+    width: 155px;
+    height: 195px;
+    position: relative;
+}
+.photos img:hover {
+    opacity: 0.5;
+}
+.sections {
+    position: relative;
+    margin-top: 6px;
+    margin-left: 820px;
+}
+#AboutMe h1 {
+    color: silver;
+    text-shadow: purple;
+    font-size: 4em;
+    
+}
+nav li {
+    margin: 0;
+    display: inline-block;
+    text-shadow: black;
+}
+ p {
+    font-size: 2.5em;
+    color: silver;
+}
+#AboutMe p {
+    font-size: 2em;
+    color: silver;
+}
+#Portfolio h1 {
+    font-size: 4em;
+    color: silver;
+    text-shadow: purple;
+}
+#Portfolio li {
+    color: #004d80;
+    font-size: 2.2em;
+    text-shadow: silver;
+}
+#Experience img {
+    height: 4em;
+    width: 4em;
+    margin-left: 400px;
+}
+#Experience h1 {
+    font-size: 4em;
+    color: silver;
+    text-shadow: purple;
+}
+#ContactMe img {
+    height: 28px;
+    width: 28px;
+}
+#ContactMe h1 {
+    font-size: 4em;
+    color: silver;
+    text-shadow: purple;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+Header h3 {
+    margin-left: 500px;
+    text-shadow: silver 1px 2px 0;
+    font-size: 3em;;  
+    color: #237e6a;
+}
